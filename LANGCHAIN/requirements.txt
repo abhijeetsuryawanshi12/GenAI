@@ -16,3 +16,4 @@ langchain_ollama
 llama-index-llms-langchain
 llama-index-embeddings-huggingface
 faiss-cpu
+streamlit
