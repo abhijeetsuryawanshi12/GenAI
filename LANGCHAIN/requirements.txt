@@ -18,3 +18,7 @@ llama-index-embeddings-huggingface
 faiss-cpu
 streamlit
 langchain_groq
+langchain_core
+fastapi
+langserve
+sse_starlette
