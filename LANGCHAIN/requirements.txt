@@ -22,3 +22,4 @@ langchain_core
 fastapi
 langserve
 sse_starlette
+langchain_huggingface
